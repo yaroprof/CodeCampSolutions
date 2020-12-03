@@ -32,7 +32,7 @@ console.log(i);  // error, i isnt dfined
 
 // TASK
 // Fix the code so that i declared in the if statement is a separate variable than i declared in the first line of the function. Be certain not to use the var keyword anywhere in your code.
-
+/*
 function checkScope(){
     let f = 'function scope';
     if (true){
@@ -44,7 +44,36 @@ function checkScope(){
 }
 checkScope();
 
+ */
 
+
+
+// 01ex.
+/*
+// let x = 10;   // 1: 10
+var func1 = function(){
+    console.log('1: ' + x);
+}
+func1();
+
+// let x = 10;  // ReferenceError
+
+var x = 10;  // 1: undefined - hosting but undefined
+
+ */
+
+// 02ex.
+
+/*
+var func2 = function (){
+    for(var i = 1; i<5; i++){
+        console.log(i)   // 12345
+    }
+    console.log(i)  // 5
+}
+func2();
+
+ */
 
 
 
