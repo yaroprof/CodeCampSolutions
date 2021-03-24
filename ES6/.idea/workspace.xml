@@ -20,21 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a61b7d5f-d4a5-44fb-bd3b-7e665f5db735" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/03 Declare a  Variable with the const.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04 Mutate an Array Declared with const.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05 Prevent Object Mutation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06 Arrow Function.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07 Arrow function wit Parameters.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08 Default parameters for function.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09 Rest parameter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10 Spred Operator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11 Destructuring Assignment to Extract Values.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13 Destructuring Assignment to Assign Variables from Nested Objects.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14 Destructuring Assignment to Assign Variables from Arrays.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15 Destructuring Assignment with the Rest Parameter to Reassign Array Elements.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16 Destructuring Assignment to Pass an Object as a Function's Parameters.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17 Create Strings using Template Literals.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02 Compare Scopes of the var and let.js" beforeDir="false" afterPath="$PROJECT_DIR$/02 Compare Scopes of the var and let.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +49,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/07 Arrow function wit Parameters.js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../JS-challenge/02_JS-Projects" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Node.js.17 Create Strings using Template Literals.js">
@@ -100,7 +87,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606823771933</updated>
-      <workItem from="1606823772979" duration="23456000" />
+      <workItem from="1606823772979" duration="24485000" />
     </task>
     <servers />
   </component>
@@ -119,25 +106,25 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="2540" y="259" key="FileChooserDialogImpl" timestamp="1606828143182">
+    <state x="2540" y="259" key="FileChooserDialogImpl" timestamp="1606999899439">
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>
-    <state x="2540" y="259" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1606828143182" />
-    <state width="1637" height="216" key="GridCell.Tab.0.bottom" timestamp="1606996014831">
+    <state x="2540" y="259" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1606999899439" />
+    <state width="1637" height="216" key="GridCell.Tab.0.bottom" timestamp="1606999900521">
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="216" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1606996014831" />
-    <state width="1637" height="216" key="GridCell.Tab.0.center" timestamp="1606996014831">
+    <state width="1637" height="216" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1606999900521" />
+    <state width="1637" height="216" key="GridCell.Tab.0.center" timestamp="1606999900521">
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="216" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1606996014831" />
-    <state width="1637" height="216" key="GridCell.Tab.0.left" timestamp="1606996014831">
+    <state width="1637" height="216" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1606999900521" />
+    <state width="1637" height="216" key="GridCell.Tab.0.left" timestamp="1606999900521">
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="216" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1606996014831" />
-    <state width="1637" height="216" key="GridCell.Tab.0.right" timestamp="1606996014831">
+    <state width="1637" height="216" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1606999900521" />
+    <state width="1637" height="216" key="GridCell.Tab.0.right" timestamp="1606999900521">
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="216" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1606996014831" />
+    <state width="1637" height="216" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1606999900521" />
   </component>
 </project>
